@@ -1,6 +1,6 @@
 # My-Leetcode-helper-2.0
 This program crawls your solutions from Leetcode, and commit them to your github repository.
-Following is the user guide.
+Following is the user guide and program screenshots.
 
 
 ## Before using
@@ -49,9 +49,12 @@ python main.py
 ```
 Now, the program should start to crawling your problems to your local repo.
 
-<img src="https://github.com/zhongpei0820/My-Leetcode-helper-2.0/blob/master/screenshots/execution_screenshot.png" width="500">
+<center><img src="https://github.com/zhongpei0820/My-Leetcode-helper-2.0/blob/master/screenshots/execution_screenshot.png" width="550"></center>
 
-After crawling the problems, this program will automatically commits all changes to your github.
+After crawling the problems, this program will automatically commits all changes to your github. Your Leetcode repo should look like this:
+![result1](screenshots/result_screenshot1.png)
+Inside each folder:
+![result2](screenshots/result_screenshot2.png)
 
 ## In the end
 
