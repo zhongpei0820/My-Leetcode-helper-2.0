@@ -55,7 +55,8 @@ After crawling the problems, this program will automatically commits all changes
 
 ## In the end
 
-Happy Leetcoding! Feel free to use this program and feel free to tell me you have any ideas for improving this program!
+Happy Leetcoding! Feel free to use this program and tell me if you have any ideas for improving this program!
+
 Cheers!
 
 
